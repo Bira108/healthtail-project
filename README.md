@@ -138,6 +138,7 @@ Interactive Looker Studio report connected live to BigQuery.
 
 🔗 **[View Live Dashboard](https://datastudio.google.com/s/iDVt80s7u9A)** ← replace with your Looker Studio link
 
+🔗 **<a href="YOUR_LOOKER_STUDIO_LINK" target="_blank">View Live Dashboard</a>
 ---
 
 ## Key Recommendations for HealthTail
