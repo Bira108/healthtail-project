@@ -136,7 +136,7 @@ Interactive Looker Studio report connected live to BigQuery.
 - Monthly Spending Trend (2024–2026)
 - Filter: Year
 
-🔗 **[View Live Dashboard](https://datastudio.google.com/s/iDVt80s7u9A)**
+🔗 **[View Live Dashboard](https://datastudio.google.com/s/i5WSPYEHa1s)**
 
 ---
 
